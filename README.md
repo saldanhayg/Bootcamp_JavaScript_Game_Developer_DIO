@@ -16,7 +16,7 @@ Aprenda de forma divertida a criar jogos com JavaScript para inciar a sua carrei
 ## Cursos deste Bootcamp :
 
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO/Cursos/Como funciona o asyncawait">Como funciona o asyncawait</a>**<br>
-✅ **<a href="https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO/Cursos/Conceitos de responsividade e experiência do usuário">   </a>Conceitos de responsividade e experiência do usuário**<br>
+✅ **<Conceitos href="https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO/Cursos/Conceitos de responsividade e experiência do usuário">Conceitos de responsividade e experiência do usuário</a>**<br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO/Cursos/Desenvolvimento avançado com JavaScript ES6">Desenvolvimento avançado com JavaScript ES6</a>**<br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO/Cursos/Desmistificando map, filter e reduce">Desmistificando map, filter e reduce</a>**<br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO/Cursos/Entendendo Promises de uma vez por todas">Entendendo Promises de uma vez por todas</a>**<br>
@@ -33,7 +33,7 @@ Aprenda de forma divertida a criar jogos com JavaScript para inciar a sua carrei
 
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO/Desafios/Fundamentos Aritméticos em JavaScript">Fundamentos Aritméticos em JavaScript</a>**<br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO/Desafios/Introdução a Busca e Substituição em JavaScript">Introdução a Busca e Substituição em JavaScript</a>**<br>
-✅ **<a href="https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO/Desafios/Introdução a Programação com JavaScript">   </a>Introdução a Programação com JavaScript**<br>
+✅ **<a href="https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO/Desafios/Introdução a Programação com JavaScript">Introdução a Programação com JavaScript</a>**<br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO/Desafios/Ordenação e Filtros em JavaScript">Ordenação e Filtros em JavaScript</a>**<br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO/Desafios/Resolvendo Algoritmos com JavaScript">Resolvendo Algoritmos com JavaScript</a>**<br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO/Desafios/Solução de Problemas com JavaScript">Solução de Problemas com JavaScript</a>**<br>
@@ -42,12 +42,12 @@ Aprenda de forma divertida a criar jogos com JavaScript para inciar a sua carrei
 
 ✅ **<a href="https://saldanhayg.github.io/Jogo-de-Naves-DIO/">Construindo o seu primeiro jogo de naves</a>**<br>
 ✅ **<a href="https://saldanhayg.github.io/Dio-Projeto-jogo-memoria-estilo-Genius/">Criando seu jogo de memória estilo Genius</a>**<br>
-✅ **<a href="https://saldanhayg.github.io/Jogo-no-estilo-Space-Shooter-DIO/"> </a>Criando seu jogo no estilo Space Shooter**<br>
-✅ **<a href="https://saldanhayg.github.io/Jogo-da-Velha-JavaScript/"> </a>Criando seu próprio jogo da velha com HTML e Javascript**<br>
+✅ **<a href="https://saldanhayg.github.io/Jogo-no-estilo-Space-Shooter-DIO/">Criando seu jogo no estilo Space Shooter</a>**<br>
+✅ **<a href="https://saldanhayg.github.io/Jogo-da-Velha-JavaScript/">Criando seu próprio jogo da velha com HTML e Javascript</a>**<br>
 ✅ **<a href="https://saldanhayg.github.io/Jogo-da-memoria-Javascript/">Desenvolvendo um jogo da memória</a>**<br>
-✅ **<a href="https://saldanhayg.github.io/netflix-clone-interface/"> </a>Recriando a Interface do Netflix**<br>
-✅ **<a href="https://saldanhayg.github.io/instagran-flexbox-dio/"> </a>Recriando a página inicial do Instagram**<br>
-✅ **<a href="https://saldanhayg.github.io/Dio-Projeto-Recriando-Jogo-da-Cobrinha/"> </a>Recriando o famoso jogo do dinossauro sem internet**<br>
+✅ **<a href="https://saldanhayg.github.io/netflix-clone-interface/"> Recriando a Interface do Netflix</a>**<br>
+✅ **<a href="https://saldanhayg.github.io/instagran-flexbox-dio/">Recriando a página inicial do Instagram</a>**<br>
+✅ **<a href="https://saldanhayg.github.io/Dio-Projeto-Recriando-Jogo-da-Cobrinha/">Recriando o famoso jogo do dinossauro sem internet</a>**<br>
 
 ## Tecnologia utilizadas 🚀:
 
